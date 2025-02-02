@@ -1,0 +1,38 @@
+                ┌──────────────────────────────┐
+                │        Input Text            │
+                └────────────┬─────────────────┘
+                             │
+              ┌──────────────▼──────────────┐
+              │ Token Embeddings +          │
+              │ Positional Encodings        │
+              └──────────────┬──────────────┘
+                             │
+              ┌──────────────▼──────────────┐
+              │ Transformer Block × N Layers│
+              │  ┌────────────────────────┐ │
+              │  │ Multi-Head Attention   │ │ (Heads: H)
+              │  │ Layer Normalization    │ │
+              │  │ Feed-Forward Network   │ │ (Hidden Dim: D)
+              │  │ Layer Normalization    │ │
+              │  └────────────────────────┘ │
+              └──────────────┬──────────────┘
+                             │
+              ┌──────────────▼──────────────┐
+              │ Final Layer Normalization   │
+              └──────────────┬──────────────┘
+                             │
+              ┌──────────────▼──────────────┐
+              │ Output Projection           │
+              │ (Vocabulary-Sized Logits)   │
+              └──────────────┬──────────────┘
+                             │
+                             ▼
+                ┌───────────────────────────┐
+                │ Softmax + Sampling        │
+                │ (Autoregressive Decoding) │
+                └───────────────────────────┘
+                             │
+                             ▼
+                ┌───────────────────────────┐
+                │ Generated Text            │
+                └───────────────────────────┘
