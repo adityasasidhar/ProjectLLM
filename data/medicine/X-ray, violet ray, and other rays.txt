@@ -1,0 +1,1821 @@
+The Project Gutenberg eBook of X-ray, violet ray, and other rays
+
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: X-ray, violet ray, and other rays
+        With their use in modern medicine
+
+Author: Maynard Shipley
+
+Editor: E. Haldeman-Julius
+
+Release date: January 19, 2025 [eBook #75150]
+
+Language: English
+
+Original publication: Girard: Haldeman-Julius Company, 1926
+
+Credits: Bob Taylor, Tim Miller and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK X-RAY, VIOLET RAY, AND OTHER RAYS ***
+
+
+
+
+
+  Transcriber’s Note
+  Italic text displayed as: _italic_
+
+
+
+
+  LITTLE BLUE BOOK NO. 1050
+  Edited by E. Haldeman-Julius
+
+  X-Ray, Violet Ray
+  and Other Rays
+
+  With Their Use in Modern Medicine
+
+  Maynard Shipley
+
+  HALDEMAN-JULIUS COMPANY
+  GIRARD, KANSAS
+
+
+
+
+  Copyright, 1926,
+  Haldeman-Julius Company
+
+  PRINTED IN THE UNITED STATES OF AMERICA
+
+
+
+
+TABLE OF CONTENTS
+
+                                                                   Page
+
+  Introduction                                                        4
+
+  Chapter I.      Everyday Uses of X-Rays                             5
+
+  Chapter II.     Curative Value of X-Rays—X-Rays Cure Whooping
+                  Cough—X-Rays for Malaria                           18
+
+  Chapter III.    Martyrs to Radiology                               32
+
+  Chapter IV.     Discovery and Nature of X-Rays                     43
+
+  Chapter V.      Ultra-Violet Light in Health and Disease—Sunlight
+                  and Infantile Paralysis                            48
+
+
+
+
+INTRODUCTION
+
+
+Highly important as are the phenomena of Radioactivity from the
+physical, chemical, medical, and philosophic points of view, they
+are hardly comparable in their relations to the affairs of our
+everyday life to the Roentgen or X-rays, and to the invisible violet
+or ultra-violet rays. The X-rays are utilized today in hundreds of
+practical ways, and are vastly important also in surgery, medicine,
+dentistry, and in biological investigations. It is perhaps not too much
+to say that the discovery of the so-called X-rays should be numbered
+among the two or three most important revelations of modern science.
+This will be clearly demonstrated in the course of the chapters to
+follow.
+
+
+
+
+X-RAY, VIOLET RAY AND OTHER RAYS
+
+
+
+
+CHAPTER I
+
+EVERYDAY USES OF X-RAYS
+
+
+To enumerate and describe all the practical uses of X-rays, apart from
+medicine and scientific research in general, would require a good many
+more pages than can be devoted to the subject here. To take a few cases
+at random, without describing the instruments and methods employed:
+radiography reveals flaws in the structure of iron and steel building
+and bridge materials, and in the cylinders of airplane engines, and so
+avoids accidents. In England a gasoline or petrol tank was shown to
+have rivet heads on the outside and none on the inside.
+
+Serious defects in the steel axles of railway and automobile “under
+carriages” have been discovered by radiography. In one case, at least,
+the axles had been drilled in the wrong position and the holes had been
+simply filled with metal and covered over. An entire lot was rejected
+in consequence and probably serious accidents were forestalled.
+
+ “Cracks in castings, bad welds and weak places which do not show on
+ the surface of metal are perfectly clear to the searching rays. How
+ much would you give to _know_ that that welded part in your automobile
+ is really solid and perfect, that it contains no flaw to break down
+ some day when you are twenty miles from a machine shop? A well-known
+ mechanical engineer said recently that in ten years a metallurgical
+ X-ray machine will be as vital a part of the equipment in an
+ automobile repair shop, a foundry, or machine shop as it is now in a
+ dentist’s office.”
+
+We are assured by _The Iron Trade_ (73:26) that “the practice of
+analyzing metals by means of X-rays is only in its infancy. There
+is every reason to believe that soon great advances will be made in
+determining the crystallization and therefore the properties of metals.
+Students of metallurgy are well aware that the properties of metals
+and other bodies depend on the nature of their crystallization. The
+microscope has rendered valuable service largely because it enables
+the form and arrangement of the crystalline grains to be studied. The
+X-ray carries the same form of inquiry into a region 10,000 times more
+minute, thereby furnishing new evidence as to crystalline structures,
+so that it is now possible to see the atoms and the molecules, and
+the way they form crystals. Every crystal has its characteristic
+X-ray spectrum and can be identified thereby even when the individual
+crystals are beyond the resolving power of the microscope and the
+substance is in danger of being called amorphous. If a specimen
+contains a mixture of crystalline substances, the spectrum shows the
+combined effect of all the substances, and provided each individual
+spectrum is known, the specimen can be analyzed.”
+
+The X-rays are also used to determine the quality of the fabric in
+automobile tires, and even to detect irregularities in the centers of
+golf balls, and to reveal why some of them fly straighter and farther
+than others.
+
+“The professional detective, too,” says Mr. Wilfred S. Ogden (_Popular
+Science Monthly_, August, 1923), “will find X-rays useful in his
+business. Consider the detection of infernal machines, for example.
+Two or three X-ray plates will tell an investigator just what is in a
+suspicious-looking box. If it is a bomb the X-ray will show him how
+to get it apart and render it harmless. Immediate detection of false
+bottoms in trunks is child’s play with the X-ray. When the government
+provided its customs inspectors with X-ray machines the gems which
+smugglers try to hide in the linings of clothes or in hollow-handled
+hairbrushes might as well be worn openly.
+
+“The X-rays give us one of the easiest ways to detect the alteration
+of checks and other documents. It is seldom that such an alteration is
+made with exactly the same ink used on the original. Inks even of the
+same color, differ in the way they affect the rays. In most cases all
+that is necessary to detect an alteration is to place the suspected
+document for a moment under the X-rays and make a photograph of it. The
+new ink used in the alteration will stand out clearly as different from
+the old.
+
+“The industrial detective will find X-rays just as useful. The
+adulteration of foods by sawdust, sand or clay; the adding of too much
+filler to paper; the presence of grit in lubricating oil, all will be
+revealed.
+
+“Another use of the rays comes home to every cook and housewife. X-rays
+constitute the only sure way to tell good eggs from bad. Pass each
+egg in turn through the X-rays and let its shadow fall on a chemical
+screen. You will see exactly what is inside each egg. The ones
+containing hopeful chicks may be rejected.”
+
+One of the most remarkable economic or biological uses of the X-ray
+so far developed is the study of silk-worms and their diseases. The
+Silk Association of America has established a laboratory—Department of
+Sericulture—in the Canton Christian College, presided over by a staff
+of Chinese and foreign entomologists. Here the silk-worm is X-rayed by
+powerful microscopes, and all his disorders diagnosed and corrected,
+says Mr. Philip A. Yountz (_Scientific American_, September, 1925).
+
+“Numerous autopsies on deceased members of the silk-worm tribe revealed
+that from 50 to 100 percent of the worms raised in South China were
+infected with diseases that made the infant mortality rate excessively
+high and destroyed the value of the silk from those hardy enough to
+survive. The elimination of these diseases would enable South China to
+produce four or five times as much silk.”
+
+In Great Britain, X-rays are used in the analysis of coal, the method
+being an adaptation of the X-ray stereoscope.
+
+In Berlin, S. Nalken, a noted criminologist, has devised an important
+improvement in finger-print identification. X-ray pictures are
+obtained of the finger, with the muscles and bones. This is done
+without the use of any chemicals that could obstruct the delicate
+furrows of the finger lines. Moreover, the finger bone is shaped
+so characteristically as to aid identification. Whenever a certain
+likeness of finger-lines is discovered, the bones are examined to see
+if further research is necessary.
+
+Picture fakers have been dethroned by application of the X-ray to
+paintings. Recently painted “old masters” are now easily detected.
+Modern artists use white-lead, which is more opaque than the “priming”
+or “sizing” used by the older artists; and the X-ray device “made in
+Germany” in 1914 by Dr. Faber, and further developed by the French
+expert, Dr. André Chéron, at once distinguishes the old from the new.
+One picture by Van Ostade, of men drinking at a table, proved to be a
+fraud when submitted to the X-ray; it had been painted over a study of
+dead birds. Another, called “The Royal Child,” a supposed 16th century
+work, now in the Louvre, was proved to have been painted during the
+19th century over a picture of very much earlier date.
+
+During a popular lecture on the X-ray in London, before the Royal
+Institution, the distinguished physicist, Prof. G. W. C. Kaye, showed
+a number of radiograph slides, among which were two pictures by Dutch
+painters, one representing the Madonna and the other the Crucifixion.
+In the former, the Madonna appeared to be looking at something which
+was non-existent in the canvas, and a radiograph proved the missing
+object was a child which some former owner of the picture had painted
+out. In the second picture, a woman in the attitude of prayer was found
+to have been painted over what was in the original the figure of a man
+in monk’s garb.
+
+The first X-ray pictures ever taken of a mummy were completed by
+scientists at the American Museum of Natural History, New York City.
+The pictures showing the skeleton in detail are expected to be a great
+aid in studying the development of bone formations in the evolution of
+man. This first subject of the scientists’ X-ray was a South American
+Indian mummy. Fake mummies, like false gems, are instantly detected by
+X-ray methods.
+
+One of the methods used for detecting the theft of diamonds at the
+mines is to examine the workmen with X-rays. Of course, a fluoroscope
+is used to make the X-ray image visible, and this is the type used in
+any regular X-ray work.
+
+The X-rays are now being used in shoe-stores—“foot-o-scope”
+instruments—to enable shoe salesmen to see the bones of a customer’s
+foot and thus make correct fittings of shoes.
+
+A few years ago there arrived from Germany a new kind of mechanical
+doll. “A secret mechanism inside enabled it to walk, sit down or stand
+up, and to do other unusual things. The importer in possession of the
+sample doll would not allow it to be opened. But one of the competitors
+borrowed the doll. He had promised not to open it. But he made some
+X-ray photographs of it. Now he is manufacturing these dolls himself.”
+
+During the World War every effort was made to introduce contraband
+materials into Germany and if it had not been for the all-seeing eye of
+the Roentgen ray, it would have been impossible to prevent materials of
+the utmost importance to the enemy from reaching him by way of neutral
+countries. Efforts were made repeatedly to smuggle rubber and copper by
+burying them in bales or bundles of other materials. It would have been
+impossible to have made a minute investigation of every bale that was
+shipped, but by means of X-rays it was possible to see through these
+bundles and packages and locate any substances that were more or less
+opaque to the rays.
+
+The X-ray has been found useful for examining timber up to 18 inches
+thick for internal knots, resin pockets, cracks and other defects.
+
+“When submarines were active and the supply of the best kinds of wood
+was uncertain, it was necessary to make some of the wooden parts out
+of small pieces of ordinary wood fitted and glued together. The way
+these pieces were joined and fastened was extremely important. A bit of
+weak glue inside some little strut might mean a disastrous collapse in
+the air. But real inspection seemed impossible, for the places where
+important faults might exist were hidden from view. Finally scientists
+solved the problem by building an X-ray apparatus with which they could
+look into the inside of each built-up airplane part and tell whether it
+held some little imperfection which might prove dangerous.
+
+“This ‘internal inspection’ of wooden articles by X-ray has been
+applied, since the war, to many other articles. Hidden joints inside
+high-class furniture and cabinet work, invisible knots and flaws inside
+the wood itself, can be determined easily by X-ray examination.” (W. S.
+Ogden).
+
+_The Scientific American_ (September, 1924) published an abstract of
+a paper read before the _Deutschen Bunsen-Gesellschaft_, in which
+Dr. D. Coster showed that “the relations between the X-ray spectra of
+the different elements are so simple that, in some respects, they are
+more useful for purposes of chemical analysis than ordinary luminous
+spectra. An important advantage is the fact that the X-ray spectrum
+of an element is quite independent of the nature of the compound
+containing it. It is easy to detect the presence in a mixture of
+which not more than one milligram is available. Certain precautions
+are necessary in examining the X-ray spectra; although the number of
+lines for each element is comparatively limited, recent observations
+have shown the existence of a number of weaker lines; in addition to
+this, with the high voltages now generally used, not only the spectrum
+of the first order, but also those of higher orders appear. Slight
+impurities in the material of the anticathode, and in the subject
+under examination, also give their lines, so that there are often
+various possibilities to be considered before a given line can be
+explained. Not only the wave length, but also the typical appearance
+of the suspected lines must be considered, as well as their relative
+intensity. By measuring photometrically the intensity of the spectral
+lines it is possible, in some cases, to obtain a quantitative estimate
+of the amount of an element present in a mixture.”
+
+Another method of rapid analysis of material in the laboratory by
+the use of X-rays in a much shorter time than that required by the
+older chemical methods is that devised by Professor Urbain, of the
+Minero-Chemical Laboratory at the Sorbonne, with the assistance of
+Eugene Delaunay. Mr. Delaunay, who did the actual work of testing the
+new X-ray method, says there is no risk of error.
+
+By employment of X-rays the scientist is now able to ascertain the
+arrangement of the atoms and molecules within the crystal “network”
+(structure—or “space lattice” of the crystal).[1] The results are
+obtained from the study of the reflection and refraction of the rays by
+the crystals, or, more precisely, the successive rows of molecules in
+the crystal. These act toward the extremely short X-rays in the same
+way as a grating spectroscope does to ordinary light-rays.
+
+Man’s ability to lengthen the ultra-violet end of the spectrum is
+limited by his capacity to provide a diffraction grating, or a mineral
+prism, which can split up light-waves of increasingly greater frequency
+(or shortness). The width of a grating space (a fine line on speculum
+metal, which acts as a minute mirror) must be comparable to the wave
+length of the light. Previous to the discoveries of Prof. Max von
+Laue in Munich (now in Zurich), and Prof. William Henry Bragg, of the
+University of London, no grating or other material was known whose
+spaces were as small as the wave length of X-rays. Laue conceived the
+brilliant idea that the regular arrangement of the atoms in a crystal
+might serve the purpose. They did. Bragg, and later his son, Prof. W.
+L. Bragg, of the University of Manchester, followed up the work of Laue
+with results of immeasurable value to science.
+
+A very important relation between the atomic number of an element
+and its X-ray spectrum was discovered by the brilliant young English
+physicist, H. G. T. Moseley (1888-1915), in his 26th year, a year
+before his death by a Turkish bullet at the Dardanelles. While
+analyzing the characteristic X-rays which are given off when any kind
+of substance is bombarded with cathode rays, Moseley found that the
+atoms of all the different substances emit radiations or groups of
+radiations which are extraordinarily similar, but which differ in their
+wave lengths as we proceed from substance to substance; the frequencies
+(wave lengths) change by definite steps as one progresses from elements
+of lower to elements of higher atomic weights. Through Moseley’s
+epoch-making discovery we now know that each of the 92 elements,
+from hydrogen to uranium, is built up by successive additions of one
+positive charge (proton) and one negative electron, and that the atomic
+numbers—from 1 to 92—correspond to the number of protons and electrons
+in each successively heavier (and more complex) atom.
+
+
+FOOTNOTES:
+
+[1] This phase of our subject can only be alluded to in this little
+book. For an authoritative yet easily understood exposition of the
+subject, see Bragg, W. H. and W. L., “X-Rays and Crystal Structure”;
+also Kaye, G. W. C., “X-Rays”; and, for more advanced reading,
+deBroglie, Maurice, “X-Rays”.
+
+
+
+
+CHAPTER II
+
+CURATIVE VALUE OF X-RAYS
+
+
+In my Little Blue Book on Radium (No. 1000), it is shown that the
+“emanation” and the “gamma rays” of radioactive substances are being
+used to great advantage in our hospitals, but that certain dangers to
+the patient’s normal cells attended employment of these radiations.
+
+It is gratifying to note that successful X-ray treatments are now
+being given in cases of cancer, rays being produced—under high-tension
+currents—that are almost identical with the gamma rays of radium.
+
+Moreover, the X-rays have a double value in medicine. In the first
+place, they are used as an aid to diagnosis, forming those branches of
+radiotherapy known as radioscopy and radiography. Then they are also
+used to great advantage in the alleviation or cure of certain maladies.
+By means of radioscopic or radiographic examination it may be found
+that there is a tumor in the chest, and as a result of that diagnosis
+it may be decided to institute treatment (radiotherapy) by means of
+X-rays or radium rays or the two combined.
+
+The method of employing extremely penetrating X-rays—under high voltage
+and amperage—seems to have been first used in Germany, during the World
+War, but was soon developed to a high degree of efficiency in France,
+England, and the United States, especially by Dr. William Duane,
+professor of biophysics at Harvard.
+
+As early as 1919, Professor Dessauer, in Germany, produced the
+penetrating X-rays by means of a high-tension current ranging from
+170,000 to 240,000 volts. It was later found, that rays at 200,000
+volts became homogeneous, so that a further increase was considered as
+of no therapeutic value.
+
+In March, 1923, Dr. I. Seth Hirsch, head of the X-ray department of the
+Bellevue Hospital in New York, gave a drastic treatment—for cancer—of
+four periods of 16 hours each with the X-rays at 250,000 volts,
+apparently with satisfactory results. The patient suffered no pain or
+inconvenience during the treatment with the exception of occasional
+nausea. A year later an experiment was made in a Philadelphia
+laboratory where an X-ray treatment of 300,000 volts was used. It seems
+that alleviation rather than cure has been the result of nearly all
+cases where cancer had been well advanced.
+
+Other important improvements, meanwhile, were being introduced by the
+German specialists, during the World War and later, among which was
+the just mentioned method of giving large tissue-destroying doses,
+requiring from ten to 15 hours; to this was added careful filtration
+of the rays, and the invention of the _ionto_—a quantimeter for exact
+measurements. A number of malignant diseases is reported to have
+yielded to this new system of massive doses under higher voltage. But
+Professor Duane has stated that neither X-rays nor the gamma rays of
+radium should be considered as a permanent cure for cancer.
+
+Until recently the tubes in which X-rays are produced have always been
+made of glass. The latest discovery is a tube made of fused silica, or
+vitreosil. Vitreosil permits the passage of the short rays, will stand
+a much higher temperature than glass, and is much stronger. This means
+more continuous service from X-rays.
+
+According to Dr. Francis C. Wood, director of the Crocker Institute
+of Cancer Research of Columbia University, a marked advance in the
+treatment of cancer has been made possible by a new type of X-ray
+tube, the invention of Dr. C. T. Ulrey, of the Westinghouse Company.
+The new tube has a higher emissive power—in other words, it is as if
+the candle-power of an ordinary lamp were increased six-fold. It is
+besides designed for use with higher voltages than have previously
+been practical in Roentgenology. The result is to reduce the necessary
+exposure from two or three hours per patient to 20 minutes, and to
+increase the life of the tubes. Incidentally, the new tube gives a
+greater proportion of the type of rays that cure certain forms of
+cancer, and less of the sort that attack healthy tissue.
+
+A revolutionary discovery by Dr. Jacques Forestier, of Aix-les-Bains,
+France, for which a gold medal was awarded him in 1925 by the French
+Academy, has made possible a method of exact diagnosis by X-rays
+heretofore deemed by many workers impossible of attainment.
+
+As is well known, it is not difficult to make an X-ray picture of
+the bones of the body. They are so much denser than the soft parts
+of the body that, even with the ordinary photographic plate, it has
+been possible to photograph them fairly well. By pumping the stomach
+full of gas or air—which are highly transparent to the X-rays—and
+then applying the X-ray, it has sometimes been possible to locate the
+beginnings of cancer of the stomach, and the place of malignant growth.
+
+Another method in common use is to give the patient about a pint of
+some substance opaque to X-rays, such as bismuth carbonate, thus making
+it possible to record the passage of the mixture, the outline of the
+stomach and the intestines thus being made visible. In this way ulcers
+of the stomach have been frequently located.
+
+Bismuth and similar substances could not be injected into the brain
+or spinal cord, on account of their poisonous effect on the highly
+sensitive cells of these regions. Now, thanks to the method discovered
+by Dr. Forestier, the cavities of the brain and spine can be safely
+explored, as well as the network of bronchial tubes in the lung—the
+so-called “bronchial tree.”
+
+In an interview with Mr. David Dietz, Dr. Forestier said (in part):
+
+“I make use of a French oil called lipiodol. It is a chemical compound
+composed of poppyseed oil and iodine. The chemical previously had been
+used as a treatment for certain diseases, such as goiter. But no one
+had ever thought of using it in X-ray work.
+
+“I noticed that where patients had been treated with lipiodol opaque
+spots appeared when X-ray pictures were made of the treated parts. It
+occurred to me, therefore, that lipiodol could be used as a means of
+making photographs.
+
+“Accordingly, in company with Dr. Sicard of Paris, I began to
+experiment. We worked with animals until we were convinced of the
+correctness of our method. When we were sure that it was safe we tried
+it on human beings. I have used it in more than 5,000 cases in Europe
+without having a single adverse result.
+
+“The lipiodol is injected into the brain cavity or the canal of the
+spinal cord or the bronchial tubes and then a regular X-ray photograph
+is made. The oil renders the injected part opaque to X-rays and they
+show up as sharp black images in the photographs.
+
+“The method is of particular value when a patient is suffering from
+paralysis which has been caused by a pressure of a tumor or growth
+somewhere along the spinal cord. In this case a drop of the oil is
+injected into the spinal canal at the base of the brain. In a healthy
+patient it would immediately travel to the base of the spine. But
+in the paralyzed patient it only travels as far as the point of
+compression. The X-ray picture therefore reveals the drop of oil as a
+black spot. The surgeon then knows the exact spot at which to operate
+in order to find the growth causing the pressure, which in turn results
+in paralysis.
+
+“In diagnosing the lungs with the use of lipiodol the injection in the
+bronchial tree enables the X-ray worker to tell at once whether the
+patient is suffering from diseases of the bronchial tubes themselves,
+or from diseases of the lung tissue, such as tuberculosis.”
+
+It is gratifying to be able to relate that along with the improvements
+already described, progress has also been made in the preparation of
+photographic plates required by the radiographer. Until recently no
+photographic plate had been made which fully met the requirements of
+X-ray work, and there was little contrast in X-ray photographs. They
+were all much too sensitive to the longer (visible) wave lengths, and
+produced blurring effects.
+
+Early in 1921 an excellent photographic plate, 25 times more rapid than
+anything previously known, was invented by Dr. Leonard A. Levey, a
+prominent member of the Roentgen Society. It makes an X-ray photograph
+of the vital organs of the living body whose movements have hitherto
+blurred the images on the ordinary photographic plate. Distinct
+pictures of the heart, lungs and stomach can now be made. Dr. Levey has
+made snapshot photographs of the heart, lungs and kidneys. All were
+taken in a flash with the X-rays on the new plate.
+
+Dr. H. Becher has called the attention of Americans to the achievement
+of Dr. Schleussner, an eminent German authority in photochemical
+matters, who has succeeded, after years of investigation, in
+sensitizing photographic plates for X-ray use by an addition of certain
+organic salts which are absorbed by the grains of silver bromide on the
+photographic plate. The plate thus formed is very responsive to the
+soft rays of an X-ray tube. The soft rays are relatively longer than
+the hard Roentgen rays. One could compare the soft rays to blue-violet
+light, if their effects on this new photographic plate are used for the
+comparison. Photographs taken with such plates give very contrasting
+effects.
+
+On the “Neo-Roentgen plate” the effect of the yellow light was almost
+nil. For this reason, developing the plate is considerably facilitated,
+as the plate can be exposed to yellow light and the attendant, who need
+not be a skilled operator, can examine the plate in a rather brilliant
+light without necessarily guessing at possible results. The examination
+of the plate under a ruby light is, therefore, completely done away
+with. It follows that if the new X-ray plate should come into general
+use, much clearer X-ray photographs would be possible; the time of
+exposure could be decreased; an unskilled operator could develop the
+plate in a room flooded with yellow light. Such improved plates are now
+being extensively used.
+
+While not attempting to enumerate all the special affections to which
+X-ray therapy is now being successfully applied, a few uses may be
+mentioned.
+
+
+X-RAYS CURE WHOOPING COUGH
+
+In a preliminary report published in the _Medical and Surgical Journal_
+(Boston), Dr. Henry I. Bowditch and Dr. Ralph D. Leonard express the
+belief that a valuable cure for whooping cough has been found in X-ray
+treatment of this disease, which has stubbornly resisted most, if not
+all, of the other remedies applied.
+
+Definite improvement was noted in most of 26 cases of active pertussis
+(whooping cough) treated with the X-ray, the subjects of which ranged
+in age from three months to 40 years, with disease stages from one to
+ten weeks. The physicians added that they could not give any rational
+explanation of the action through which the X-ray appeared to produce
+beneficial results. The report said:
+
+“Each patient received three or four applications of the X-ray at
+intervals of two or three days.”
+
+Many of these cases have not been observed sufficiently long to
+determine the final result. Nevertheless, “it is evident to us that
+there resulted a definite improvement in these patients which cannot
+be explained by mere accident.... It does not seem likely that [the
+beneficial result] is due to any direct bactericidal property of the
+X-ray.
+
+“We feel warranted in classifying a small percentage of these 26 cases
+under the heading of “prompt cures.” By this we mean that after two or
+three applications of X-rays, covering a period of six days, the spasms
+and whoops entirely disappeared and the patients were clinically well,
+except for, possibly, a very slight cough.
+
+“The bulk of the cases, however, we have classified as relieved. This
+group consists of perhaps 70 percent of the total. By relieved we mean
+that there has been a gradual diminution in the number of spasms.
+
+“There is a small percentage of cases, perhaps 10 to 15 percent, which
+apparently were not relieved. In this group are included one moribund
+case and one rather difficult feeding case.
+
+“While our evidence so far is not sufficient to warrant any definite
+conclusions, we have the feeling that the X-ray at the present time may
+be of more value in the treatment of pertussis than any other form of
+treatment, including serum.”
+
+
+X-RAYS FOR MALARIA
+
+An Italian physician, Dr. Antonio Pais, of Venice, has since 1916
+been successfully treating malaria by means of X-rays. This treatment
+is, however, not employed as a substitute for quinine, but merely to
+reinforce its action. The X-rays are directed toward the region of the
+spleen, and the effect is to reduce its enlargement. At the same time
+the composition of the blood is modified. The success obtained by Dr.
+Pais has, according to the _Bibliothèque Universelle et Révue Suisse_
+(Lausanne), been so great that the Italian Government decided to
+introduce his method of treatment into the military hospitals.
+
+Since the war the treatment has been studied by Prof. B. Grassi, who
+made a report, at an Italian scientific meeting, in which he declared
+the action of X-rays upon chronic malaria to be “truly marvelous.” The
+_Bibliothèque Universelle_ says, regarding earlier treatments:
+
+“The attempt was made by them to destroy the parasite contained in the
+spleen. But it is now known that the X-rays employed for therapeutic
+action have no effect upon micro-organisms, although they may be
+injurious to the elements of the blood. In the method devised by Dr.
+Pais, the X-rays are employed to stimulate the functioning of the
+spleen, of the marrow, and of the lympathic elements by means of
+slight but prolonged excitation; they are employed in infinitesimal
+doses—homeopathically, so to speak. Thus the result is absolutely
+different as well as the method.”
+
+Dr. James B. Murphy demonstrated that accompanying cancer grafts on
+immune animals there occurs a general increase in the circulating
+lymphocytes and hyperplasia of the lymphoid tissue. When the lymphoid
+tissue of immune animals was destroyed, the immunibility was annulled.
+Two methods of increasing the lymphocytes have been found, namely,
+diffuse small doses of X-rays, and dry heat. Mice with lymphocytosis
+induced by these agents show Increased resistance to replants of their
+own tumors. The results afford ground for hope of human application.
+(Reported in _Scientific American Monthly_, January, 1920, page 96.)
+
+It has been found that actively growing tissue, whether normal
+or pathological, is the most susceptible to X-rays, and it is
+comparatively easy to sterilize a number of species of animals
+without otherwise injuring them. (Prof. James W. Mayor, _Science_,
+September 23, 1921.) C. R. Bardeen found that X-rays prevent worms from
+regenerating lost parts. Observations of the effect of exposure to
+X-rays on the fertility of animals were described in a paper by Prof.
+L. H. Snyder of the North Carolina College of Agriculture. Exposure of
+male rats to X-rays, he said, had rendered them sterile at the end of
+two months, the animals regaining fertility when no longer subjected to
+the rays.
+
+If not handled with due caution and skill, X-rays may do more harm
+than good, provoking malignant growths as well as retarding their
+development. As early as 1911, Otto Heese published a record of 54
+cases of cancer caused by means of improper handling of these powerful
+rays.
+
+In the early days of X-ray therapy the nature and effects of these
+radiations were wholly unknown. Operators did not hesitate to test
+and adjust their tubes by throwing the shadow of their hands on the
+flouroscope. X-rays do not make objects visible to the human eye, and
+to see the effects of them it is necessary to interpose a special
+screen between the eyes and object through which the X-rays are to
+penetrate. The cardboard screen is coated with a fluorescent substance,
+such as barium-platinum-cyanide, or calcium tungstate. This screen is
+best placed in one end of a black wooden or pasteboard box, against the
+other end of which the eyes are placed when in use.
+
+This screen under the influence of X-rays becomes luminous and enables
+one to see shadows or silhouettes of objects of denser material
+interposed between the eyes and the X-ray tube, when the tube is in
+operation.
+
+
+
+
+CHAPTER III
+
+MARTYRS TO RADIOLOGY
+
+
+It was not until several years after the discovery of X-rays by
+Roentgen, in December, 1895—after operators had been severely burned
+in laboratories and hospitals all over the world, and surgeons and
+physicians began to compare notes, that the pathological effects of
+X-rays were discovered and understood.
+
+Says John Macy (in his memorial volume on Walter James Dodd, heroic
+victim of 50 separate operations due to X-ray burn):
+
+“It is easy now to understand what was happening to Dodd and his
+contemporaries. In a modern X-ray machine the strength of the current,
+the quality of the spark, all the conditions, are determined by
+metrical instruments. In the early days the operator tested his tube
+and adjusted it by throwing the shadow of his hand on the fluoroscope;
+by the look of the shadow he judged how the machine was behaving. First
+he used the left hand until that became too sore, then the right. And
+until devices were found to focus and confine the rays, the face of the
+operator was exposed, and sometimes the neck and chest were burned.
+A limited exposure to the X-ray is as harmless as a walk in the
+sunlight. It is the repeated, continuous bombardment of the ray that is
+calamitous. Dodd and the other pioneers lived in the X-ray.”
+
+John L. Bauer was the first victim of the X-ray, in 1906. He was
+followed in 1914 by Henry Green, who, although he knew he was doomed,
+and in spite of the fact that he had become almost helpless physically
+because so much flesh had been cut away in amputating cancerous
+growths, persisted in his work to the end.
+
+Major Eugene Wilson Caldwell of the Medical Reserve Corps of the United
+States Army, the inventor of the Caldwell liquid interrupter and
+other devices for therapeutic use, lost his life in 1918. Dr. Charles
+Infroit of the Salpetrière Hospital, Paris, died on November 29, 1920.
+One of Dr. Infroit’s hands became infected in 1898 as a result of his
+continuous use of the X-ray, and an operation was performed. After that
+he had 24 other operations, 22 of them performed in the last ten years
+of his life, the last on August 1, 1920, when his right arm and left
+wrist were amputated.
+
+Dr. Charles Vaillant, whose heroic services to humanity have made
+necessary 13 amputations until now he is armless, on February 19,
+1923, received from United States Ambassador Herrick the Carnegie
+plaque, while the cravat of the Paris Gold Medal of the French Legion
+of Honor was conferred upon the martyr. Physicians say further
+amputations are inevitable, and that these will result in Vaillant’s
+death.
+
+In 1921, the eminent English radiologists, Dr. Cecil Lyster and Dr.
+Ironside Bruce, and Dr. Adolphe Leroy of the St. Antonie Hospital in
+Paris, died martyrs to their noble profession. “All of these men went
+knowingly to death. Perhaps they did not take their sacrifices in the
+spirit of the saint, possessed by a vision of suffering humanity.
+Theirs may have been the ardor of the scientist, the endurance of a
+worker who hears the challenge of nature’s silence and goes to battle.
+But in themselves they express the powerful urge of a spirit that longs
+to see, to feel, to know, and to possess all the mysteries of the
+universe. It is the same spirit that makes men rebel and agonize for
+a better order of humanity. These men seem better than the world that
+produces them. But each of them, when he dies, may pull the rest of
+humanity a little closer to his level.”
+
+Dr. Frederick Henry Baetjer of Johns Hopkins Hospital has only two of
+his ten fingers left. He lost the other eight as the result of burns
+received in X-ray experimentation.
+
+Dr. Francis Carter Wood, X-Ray and radium expert of the Crocker Special
+Fund Cancer Laboratory of New York, calls particular attention to
+the fact that “the deaths which are occurring now are the results of
+repeated exposures ten or more years ago, when no one knew what the
+effect of the rays might be. The burns suffered then were the result of
+continuous exposure without protection against the rays. One exposure,
+or a moderate number of them, would do no harm; but before the present
+perfection of the apparatus it was necessary to adjust the focus for
+each picture, and the operator would do this by looking at his bare
+hands through the fluoroscope. This resulted in chronic burns, and the
+burned flesh formed a fertile soil for cancer. Lead one-quarter of an
+inch thick will stop both radium and X-rays.”
+
+In Dr. Wood’s opinion, workers in X-rays today “need not suffer any ill
+effects except through their own carelessness.”
+
+A discovery which promises to put an end to the dangers to life and
+limb risked by those who engage in working with X-rays was communicated
+to the Academy of Sciences of Paris as early as May, 1920. It is the
+result of experiments by Dr. Pesch of the Faculty of Montpelier, who
+himself is one of the sufferers from X-rays, and who has long been
+seeking the means of protecting his young confrères.
+
+He found that deep red rays are antagonistic to the ultra-violet
+rays which produce irritation and burning of the skin, and certain
+oxidations. Thus, by the simultaneous application of both rays he
+secures immunity for X-ray workers. He has already proved that erythema
+can be prevented by the application of red rays. Daniel Berthelot, who
+announced the discovery to the Academy, recalled that as long ago as
+1872 the antagonism of extreme rays of the spectrum had been foreseen
+by Becquerel in his study of phosphorescence.
+
+Dr. Pesch employs a filter composed of a plastic material that allows
+only the red and yellow rays to pass. It is claimed that by means of
+this filter not only are the X-rays made harmless, but its employment
+effects a cure for radio-dermatitis, the affection which has maimed or
+killed so many of the early workers in X-ray therapy.
+
+According to Dr. G. Contremoulins, Chief of the principal laboratory
+of the Paris hospitals, whose researches and experiments were begun
+in February, 1896, the usual methods of protection even today are not
+always adequate. Says he (in _La Démocratie Nouvelle_, Paris, April,
+1921):
+
+“Young radiologists, especially those born of the war, take no heed
+of the experience acquired by their elders, being quite convinced
+that the glasses, gloves and aprons containing lead offer a perfect
+protection—they even imagine that strictly speaking they might get
+along without them.
+
+“Like a child which hides behind a wooden door to shield itself from
+the bullets of a machine gun, our young radiologists believe they are
+safe when they have donned their gloves and examine their patients
+behind a sheet of lead glass. But, unfortunately, these enable them
+only to avoid those superficial skin affections caused by the most
+absorbable rays of the spectrum.
+
+“But they receive, alas, those other radiations which are more
+penetrating, and these slowly produce lesions of all the ductless
+glands in the body, whose internal secretions we now know to be of such
+vital importance in the bodily economy.”
+
+The modern employment of 200,000 volts under three milliamperes gives
+rise to the need of great caution in the use of X-rays. Even the
+health of persons in adjoining rooms or buildings, Dr. Contremoulins
+believes may be imperiled. In the _Popular Science Monthly_ for
+October, 1921, this veteran radiologist makes some startling
+revelations. To quote a few passages:
+
+“In April, 1896, five months after the discovery of X-rays—or Roentgen
+rays, as they are also named in honor of their discoverer—a pose of
+eight hours was required for a correct radiograph of a profile head,
+the tube being placed ten inches from the sensitive plate.
+
+“In April, 1921, a similar image was obtained in four hours at a
+distance of 90 yards from the apparatus. This means that the radiation
+with modern apparatus is more than 20,000 times stronger than was
+possible in 1896.
+
+“With the very weak radiation that I have used for my experiments,
+corresponding to the ordinary radiographic and radioscopic work, it has
+been easy for me to obtain images of metallic objects and human bones
+placed on a sensitive plate 15 feet from the radiating source, although
+the rays pass directly through a slab of marble an inch thick, a sheet
+of lead one-tenth of an inch thick, and a flooring eight inches deep,
+built of oak boards and rough plaster.
+
+“Fifty feet from this same source I have been able in four hours to fog
+a photographic plate placed behind a wall of brick and stone 20 inches
+thick. Also in the same time I have obtained a correct radiograph
+of a skull and a crab, 262 feet from the X-ray machine. All these
+experiments were made with a 17-centimeter spark and two milliamperes
+of current.
+
+“If photographic plates are so readily affected by these rays, we must
+admit that animal cells also are affected to an appreciable degree.
+The X-rays that are being used to cure a patient may at the same time
+inflict radio-dermatitis on other persons exposed to their influence in
+adjoining rooms or buildings. Nothing will suffice for safety but to
+cover the walls and floors of X-ray rooms with sheets of lead from a
+quarter to half an inch thick, according to the power of the source and
+its distance from the lining....
+
+“Biologic reactions from X-rays take two forms. The first is a skin
+lesion known as radio-dermatitis, caused by the skin’s absorbing a
+large quantity of radiations. The second results from the improvements
+in X-ray tubes and the use of filters absorbing the radiations of
+long wave length, currently named ‘soft radiation.’ This reaction
+takes place deep beneath the skin upon the active cells that are the
+most vulnerable. It is principally the internal secretion glands that
+are affected. Among those who continually receive even weak doses,
+a gradual lessening of vitality takes place, leading slowly to a
+physiological impoverishment that inevitably carries them off sooner or
+later.”
+
+Dr. Contremoulins was able to escape serious injury up to the outbreak
+of the World War, but is now a victim of his services to wounded
+soldiers. As a result of his efforts—and due also, partly, to suits
+brought against a Paris physician by neighbors who alleged that their
+health had been impaired, resulting (perhaps) in two cases of cancer—a
+thorough-going investigation was undertaken by the French Ministry of
+Hygiene.
+
+Dr. Declere of the Academy of Medicine presided over a committee which
+included Mme. Curie, M. Becquerel, a radiologist; Dr. Vaillant and a
+number of specialists. A leading member of the Academy said he did
+not believe that X-rays menaced persons who did not come into direct
+contact with them.
+
+“I intend to study the question by three methods,” he said. “First, we
+shall make a purely physical examination, studying the action of the
+rays and in what measure they exert themselves at certain distances.
+Second, we shall experiment with the living tissues of rabbits, trying
+various distances several hours a day and noting the effect on the
+red and white corpuscles and glands of the animals. Then, since it
+is impossible to make such experiments on human bodies, we shall
+collect data based on 25 years’ experience with X-rays to see whether
+physicians in close contact have been burned.”
+
+While X-ray treatment cannot be said to _cure_ a deep-seated cancer,
+it is undoubtedly being given with highly beneficial results in many
+cases, alleviating much suffering and retarding the growth of malignant
+tissues.
+
+As is well known, tuberculosis can advance to a dangerous stage before
+it exhibits physical symptoms recognizable by physicians. The X-ray
+not only brings to light incipient consumption, but reveals the exact
+place and extent of the lesion. Any abnormalities of the alimentary
+tract, also, may readily be brought to view, as well as certain effects
+produced on certain arteries, due to arterio-sclerosis or to angina
+pectoris (a very painful form of heart disease).
+
+It has been well said that “the list of diseases, the presence and
+extent of which are betrayed or confirmed by the X-ray, would fill
+pages and would include most of the enemies to human health. Among them
+may be mentioned many forms of tuberculosis, occult abscesses whose
+ramifying consequences physicians were once unable to refer to their
+source, tumors, cancers, kidney stones, gastric ulcers, diseases of the
+heart.”
+
+The martyrdom of radiologists has not been in vain.
+
+In cases of emergency, X-ray diagnosis may now be given patients in
+their own homes. A surgical X-ray outfit that can be carried in an
+ambulance and taken to the bedside of a patient too ill for removal
+to a hospital passed a successful trial in England, thus adapting an
+emergency war-time arrangement to civilian use. A generator in the
+ambulance operates the tube, which has a special mounting that enables
+it to be placed over the patient’s bed, and adjusted for height and
+position by hand-wheels. The control apparatus is mounted on a separate
+stand, and connected with the ambulance outside by a cable wound on a
+reel. Provision is made for developing the exposed plates at once, so
+that a diagnosis can be made in a few minutes.
+
+
+
+
+CHAPTER IV
+
+DISCOVERY AND NATURE OF X-RAYS
+
+
+In March, 1923, there passed from this world one of the most beautiful
+exemplars of the true scientific spirit that earth has ever seen—Dr.
+William Conrad Roentgen, F.R.S., Professor of Experimental Physics in
+the University of Munich, the discoverer of X- or Roentgen Rays.
+
+Born at Lennep, on March 27, 1845, Professor Roentgen filled a number
+of important posts before his death in 1923, in which year he was
+awarded the Nobel Prize in Physics—an award which brought with it a
+gift of $40,000. Although suffering from the poverty which resulted in
+Germany as an aftermath of the World War, Professor Roentgen refused to
+utilize the Nobel Prize award for his own personal uses. He gave the
+entire sum to a research society to enable other students to carry on
+their investigations.
+
+While occupying the chair of Professor of Physics and Director of the
+Physical Institute at Würzburg, Dr. Roentgen made the discovery—in
+1895—for which his name is chiefly known—though his researches led to
+important advances in several other departments of physics.
+
+While experimenting with a highly exhausted vacuum tube on the
+conductivity of electricity through gases, Dr. Roentgen noticed that
+a paper screen covered with potassium platinocyanide—a phosphorescent
+substance—which chanced to be lying nearby, became fluorescent under
+action of some radiation emitted from the tube, which at the time
+was enclosed in a box of black cardboard. Professor Roentgen then
+found, by experiment, that this heretofore unknown radiation had the
+power to pass through various substances which are impenetrable to
+ordinary light-rays. He found that if a thick piece of metal—a coin,
+for example,—were placed between the tube and a plate covered with the
+phosphorescent substances, a sharp shadow was cast upon the plate. On
+the other hand, thin plates of aluminum and pieces of wood cast only
+partial shadows.
+
+Thus was it demonstrated that the rays which produced the
+phosphorescence on the glass of the vacuum tube could penetrate bodies
+quite opaque to ordinary light-rays. Like ordinary light, these rays
+affected a photographic plate; but owing to their peculiar behavior in
+regard to reflection and refraction, Roentgen was led to put forward
+the hypothesis that the rays were due to longitudinal, rather than
+to transverse waves in the “ether.” They will ionize gases, but
+they cannot be reflected, polarized or deflected by a magnetic or
+electric field, as are ordinary light-rays. (It has been shown that the
+_scattered_ secondary rays show polarization.)
+
+Being in doubt as to the real nature of these penetrating rays,
+Roentgen called them “X-rays.”
+
+In 1896 Professor Roentgen was the recipient of the Rumford Medal of
+the Royal Society. This honor was shared by his compatriot Philipp
+Lenard. Lenard was the discoverer of the rays emanating from the outer
+surface of a plate composed of (any) material permeable by cathode
+rays. By impinging on solids, the cathode rays (negative electrons)
+generate X-rays. “Lenard rays,” which are similar in all their known
+properties to cathode rays projected from the cathode of a vacuum tube,
+do not emanate from the cathode. (Unlike the X-rays, cathode rays may
+be deflected from their natural course along “straight lines” by the
+application of a magnetic or electric field.) Professor Lenard, as also
+Hertz, discoverer of the now well-known “wireless waves,” had already
+demonstrated that a portion of the cathode rays could pass through a
+thin film of a metal such as aluminum.
+
+When Roentgen rays (X-rays) are allowed to fall upon any substance, the
+matter emits cathodic (or secondary Roentgen) rays. “The characteristic
+secondary radiation may be compared with the phosphorescence produced
+by ultra-violet light, and the cathodic secondary rays with the
+photoelectric effect” (Sir J. J. Thomson).[2]
+
+The penetrating power (“hardness”) of these rays appears to be
+determined solely by the nature of the elements in the emitting
+substance. The velocity of the cathodic (or secondary Roentgen) rays
+seems to be quite independent of the matter exposed to the primary
+rays, but increases as the hardness (penetrating power) of the primary
+Roentgen rays increases.
+
+The _character_ of the emitted rays, in brief, appears to be quite
+unaffected by the chemical or physical condition of the element.
+Red-hot iron, for example, exhibits the same characteristic Roentgen
+radiation as iron at room temperature. But the _penetrating power_
+(hardness) of this characteristic (emitting) radiation increases
+gradually and continuously with increasing atomic weight of the
+emitting elements. The complete independence of the penetrating power
+of the characteristic Roentgen radiation from external surroundings
+indicates strongly that it is closely connected with the nature of the
+nuclei (“cores”) of the atoms giving rise to it.
+
+
+FOOTNOTES:
+
+[2] When ultra-violet light is allowed to fall upon a metal it causes
+the metal to emit electrons and thus to acquire a positive charge, the
+velocity of the emitted electrons being exactly proportional to the
+frequency of the incident light. Or when light of X-ray type falls
+upon the surface of almost any substance, it takes hold of an electron
+in the atoms of that surface and hurls it out into space with a speed
+exactly proportional to the wave length of the light. This phenomenon
+is known as the photoelectric effect.
+
+
+
+
+CHAPTER V
+
+ULTRA-VIOLET LIGHT IN HEALTH AND DISEASE
+
+
+That both the compound rays of ordinary sunlight and ultra-violet rays
+(“artificial sunlight”) are highly effective in the treatment of a
+number of complaints is now well known. They are both in general use
+for the external treatment of rickets, tuberculosis, and a number of
+other diseases. Light-rays are also applied to hasten the healing of
+wounds.
+
+The use of the sun as a healing agent seems first to have been
+developed in a scientific way by Dr. Neils R. Finsen, a young Danish
+physician who was later awarded the Nobel Prize in Medicine. His
+original researches were undertaken toward the end of the 19th century.
+Then Dr. Rollier opened the first sunlight clinic in 1903, and in 1910
+established his school at Leysin, in the Alps. Dr. Rollier is now
+treating about 1,000 patients, mostly afflicted with various forms of
+tuberculosis of the bone. The sun cure is also used to some extent for
+pulmonary tuberculosis, and with considerable success. (See my _Man’s
+Debt to the Sun_, Little Blue Book No. 808, Chapter IV.)
+
+According to Dr. Rollier, exposure of the diseased to the sun’s rays is
+efficacious in the treatment of anemia, malnutrition, bone and gland
+infections and various types of tuberculosis, and is a body builder for
+convalescents. On the outskirts of San Rafael, California, is a novel
+sun sanitarium, Helios Sanitarium, modeled after the Alpine sanitaria
+of Dr. Rollier.
+
+Two investigators have recently studied the comparative germ-destroying
+power of the blood in healthy and ill persons, before and after
+exposure to sunlight. It was found that the germ-killing power of the
+blood was increased when the sun bath lasted for a certain length of
+time. It was shown that too long or too short an exposure decreased the
+blood’s power. It was decreased also in patients who had fever. Several
+other conditions were found to influence the results. Physicians
+believe that several points of practical value may emerge from these
+experiments. One important and useful result is that they offer a new
+method to guide and gauge the effects of treatment in tuberculosis and
+other diseases.
+
+The practice of X-ray treatment (since 1910 included under the more
+general term _radiotherapy_) includes treatment not only by X-rays,
+but also by all kinds of rays—treatment by heat, by the sun’s rays, by
+ultra-violet rays, and even by violet rays. The rays of radioactive
+substances used in medicine come under the etymological term of
+radiotherapy. But in general practice, amongst radiologists, the term
+is applied to treatment by X-rays alone. Nevertheless, it is now well
+established that the ultra-violet rays are not only bactericidal, but
+that they also play an important role in the treatment of certain
+diseases, and in the maintenance of good health. On the other hand,
+these rays produce a certain irritability among persons of the white
+race in the tropics, which cannot be regarded as healthful in their
+general effects.
+
+Since the amount of ultra-violet light coming from the sun has been
+shown by Abbott to be variable, it may be that some of the irritability
+which seems to be general among the inmates of our public institutions
+on certain days is due to this change in the sun’s outpour of
+ultra-violet radiation. As Dr. E. E. Free remarked not long ago:
+
+“Put these facts together. Ultra-violet rays affect life. The amount of
+ultra-violet coming from the sun is variable. Does this mean that some
+of the obscure, day by day variations of health can be due to this?
+Some days everybody seems happy and cheerful. Other days everybody
+is depressed. Still other days are breeders of ‘nerves.’ Maybe the
+ultra-violet does it. Maybe not. Doubtless the investigators will find
+out presently.”
+
+Recent experiments at the Maine Agricultural Experiment Station,
+conducted under the direction of Dr. John W. Gowen, have led to the
+important discovery that milk from cows that have been treated with
+ultra-violet light, from mercury-vapor quartz lamps, contains a much
+larger amount of the substance—presumably a vitamine, or vitamines—that
+prevents rickets in children and young animals. At any rate, it was
+found that the milk from cows deprived of sunlight and ultra-violet
+light was quite deficient in the anti-rachitic factor. Animals and
+birds fed on the sunless milk uniformly developed rickets.
+
+The Holstein-Friesian cows used in the experiments were of nearly the
+same age and calving date and all received like treatment as to feed,
+temperature, etc., and stood side by side in the same barn. “Throughout
+the treatment,” says Dr. Gowen, “these cows did not leave the barn. For
+one month none of the cows received ultra-violet light. For the second
+month two cows received ultra-violet light 15 minutes a day, generated
+from a Cooper-Hewitt alternating current light at three feet above
+their backs. For the third month these cows received ultra-violet
+light for 30 minutes a day under the same conditions. In the meantime
+Rhode Island Red chickens were allowed to develop rickets, shown both
+clinically and by X-ray photographs. They were divided into two lots,
+one lot of these chickens receiving milk from the ultra-violet cows,
+the other of two lots of chickens, milk from the control cows. Both
+lots received all the milk they wished.
+
+ The chickens have now been under treatment 50 days. The lot receiving
+ milk from cows exposed to ultra-violet light are in good condition
+ with no appearance of rickets in X-ray plates. The lot receiving
+ normal milk has moved progressively toward more extreme clinical
+ and X-ray rickets. The experiment was repeated, using the milk from
+ these same cows on White Leghorn chickens showing clinical and X-ray
+ rickets. Five chickens were in each lot. After 38 days’ treatment four
+ of the lot receiving milk from the ultra-violet cows are almost cured
+ of rickets, showing only a very slight stiffness. The fifth chicken
+ shows some stiffness. Four of the lot receiving the normal milk show
+ constantly increasing symptoms of the more advanced stages of clinical
+ rickets.
+
+ These results point to the conclusion that more of the substance
+ necessary to cure rickets is absorbed by the cow exposed to
+ ultra-violet light and secreted by her in her milk. The cows
+ prevented from receiving ultra-violet light are not able to secrete
+ this anti-rachitic substance in sufficient quantities to cure or
+ allay the process of clinical rickets. The results thus point to an
+ environmental factor transmitted by the cow to her offspring through
+ the medium of her milk. They further suggest that the high incidence
+ of rickets in children during the late winter months is due to their
+ mothers not receiving ultra-violet light either during pregnancy or
+ while in lactation. Furthermore, it would appear that cows’ milk
+ produced especially for baby-feeding should be from cows which have
+ access to ultra-violet light either from the sun or from some other
+ source.
+
+Dr. C. C. Little of the University of Maine, and his associates, fully
+demonstrated the value of sunlight to animal life through experiments
+on a flock of 233 chicks. The chicks were divided into three groups and
+all were given the same diet. One group was kept in natural sunlight,
+the second was kept in sunlight that went through window glass, and
+the third was given both natural sunlight and extra ultra-violet rays
+produced artificially. The last class grew the best. The class that got
+only natural sunlight grew normally. The class kept behind window glass
+all developed bone disease. The glass of the greenhouse allowed the
+light of the sun and the heat of infra-red rays to get through. But it
+screened out the ultra-violet waves.
+
+The beneficent effects of invisible ultra-violet rays are seen in
+both the organism exposed to them and the food consumed. This is true
+whether the rays come direct from the sun or by means of a quartz lamp.
+Ordinary glass lamps prevent the ultra-violet rays from passing out.
+But not all kinds of foodstuffs by any means are favorably affected by
+the rays. Only those foods which contain fat seem to be materially
+improved. The value of milk and of cod liver oil is greatly enhanced by
+exposure to the rays. Dr. Benjamin Kramer has been highly successful in
+treating babies affected with rickets by subjecting milk itself to the
+action of ultra-violet light.[3]
+
+As early as 1923, it had been shown by feeding experiments with
+various types of animals at the University of Wisconsin that sunlight
+was acting either directly upon the animal or upon its food. The
+same dietary was found to produce contradictory results. It was
+established—especially by H. Steenbock and E. B. Hart—that sunlight is
+indispensable to man and beast, in that it is the determinant of the
+efficiency with which calcium can be assimilated and retained. (See
+their report, _Journal of Biological Chemistry_, Vol. 62, page 577,
+1925.) Calcium, it is pointed out, needs to be conserved because in
+proportion to the body needs it is not found abundantly in foods and
+feeds. Steenbock and Hart tell us that sunlight plays the particular
+rôle of conservator “by virtue of its content of ultra-violet
+radiations of approximately 250 to 302 millimicrons in wave-length,
+but unfortunately these are not present in sufficient degree to provide
+a wide margin of safety for the animal. As a result we have rickets
+in the young and poor dentition, restricted lactation, abortion and
+impoverishment of the skeleton in lime to a dangerous extent in the
+adult.... The ultra-violet rays bring their effect through the medium
+of certain compounds widely distributed in plant and animal tissue, so
+that practically any foodstuff can be ‘anti-rachitically’ activated.
+‘Make hay while the sun shines’ is more than a mere poetic slogan,
+for hay made in the dark is devoid of rickets-preventing properties”
+(_Science_, December 4, 1925).
+
+The careful experiments of J. S. Hughes showed that chickens receiving
+a standard scratch feed and mash, supplemented with sprouted oats and
+buttermilk, developed rickets (weak legs) when deprived of direct
+sunlight. Chicks receiving the same feed but given sun baths developed
+normally, although they were confined in a very small pen, with little
+opportunity to exercise. Light from ordinary electric bulbs had very
+little, if any, beneficial action. Light from the Hereus mercury arc
+lamp was very beneficial. Cod liver oil also proved to be effective in
+preventing rickets in chickens as in mammals.[4]
+
+That such fats as olive oil and lard may be activated by exposure
+to ultra-violet rays and used as a substitute for cod liver oil in
+the treatment of rickets is evidenced by experiments reported by the
+Department of Agricultural Chemistry of the University of Wisconsin.
+In the series of experiments now published, olive oil and lard were
+exposed to the action of the ultra-violet rays from a powerful
+mercury-vapor quartz lamp, for periods of time ranging from half an
+hour to 17 hours.
+
+After exposure to the rays these fats were fed to a group of
+experimental rats in which rickets had been produced, and the activated
+olive oil and lard were found to have the same beneficial results
+that follow the administration of cod liver oil. The weight of the
+rats increased and an analysis of the bones showed an increase in the
+calcium content.
+
+Some of the activated olive oil, which had been stored in a stoppered
+bottle, showed no change in potency ten months later. It was found
+also that the fats might be activated by the rays from the open carbon
+arc, the iron arc, and sunlight; but that exposure for such prolonged
+periods as 17 hours destroyed their potency. This destruction took
+place even on cod liver oil.[5]
+
+It has long been known that human tissue is more actively changed by
+light when it has been “sensitized.” Quinine, esculin, fluoresceine,
+etc., are examples of tissue sensitizers, in addition to their
+other effects. The most powerful of all known sensitizers is
+haemato-porphyrin—or simply “porphyrin.” This sensitizer is a purple
+substance closely allied to the haemoglobin that gives blood its red
+color. Subtracting its iron and albumin from haemoglobin by appropriate
+chemical processes leaves porphyrin. This substance reacts strongly to
+the ultra-violet rays, in rare cases causing a disease which turns the
+teeth to a deep purple hue. Victims of this uncommon ailment have to
+wear gloves constantly, and when going out of doors during the day time
+must put on heavy veils.[6] Porphyrin is capable of dissolving the red
+corpuscles of the most dissimilar animals in the presence of sunlight.
+But neither the haemato-porphyrin nor the light alone is capable of
+injuring the animals. Only the combined effect of the two can harm
+them. A physician experimentally injected an exceedingly minute
+quantity into himself and then exposed himself to a moderate light, and
+became very ill.
+
+Hausmann found that even the diffused sunlight of an early spring
+day in Vienna was sufficient to cause the death of white mice which
+had been subjected to small quantities of this strange substance.
+Dr. E. C. Van Leersum, of Holland, proved by experiments with rats
+that the utilization of lime by our bodies can be controlled almost
+at will by this “sensitization” process. Rickets, or a condition
+indistinguishable from rickets, can be produced or cured by proper
+control of the sensitization.
+
+
+SUNLIGHT AND INFANTILE PARALYSIS
+
+An article by Science Service, quoted in _Science_, September 11, 1925,
+says:
+
+ Another of the dreaded diseases of childhood, infantile paralysis,
+ which, like rickets, graduates large quotas of cripples, has responded
+ to the good influence of the sun’s rays. Dr. G. Murray Levick, medical
+ director of the Heritage Craft Schools at Chailey, Sussex (England),
+ who originated the treatment, said that no other method has ever had
+ as good results as this in the treatment of infantile paralysis.
+
+ Dr. Levick first deduced that neurasthenia in grown-ups and rickets
+ in the young are due to the same cause. Both these diseases, he
+ claims, are nutritional disturbances of the nerve centers affecting
+ the bones in the young, and the nervous systems in the old. The action
+ of sunlight on the skin forms a substance which is carried into the
+ blood and feeds the nerve centers as well as the bones. His success in
+ treating neurasthenia with sun’s rays led him to apply it to cases of
+ infantile paralysis, a disease which is a severe shock to the nervous
+ system and which results in muscular atrophy. Under the action of
+ sunlight a renutrition of nerve centers takes place.
+
+ Synthetic sunlight produced by him with an electric arc light of his
+ own invention proved as good as natural sunlight, and could be better
+ regulated to the patient’s endurance. He used two distinct kinds of
+ light-rays, the short ultra-violet rays for nerve nutrition, and the
+ long red and infra-red rays for muscle treatment. Red rays, as can
+ be seen when the hand is held up against the sunlight, penetrate
+ the flesh to a considerable extent, and can therefore stimulate the
+ sleeping muscle.
+
+ Dr. Levick warns that immediate success must not be expected. He has
+ found constant improvement where short daily treatments were continued
+ over a period of several years. While the method may not be effective
+ in extreme cases, it is nevertheless a test which will soon show after
+ a few treatments whether any rejuvenation of the nerve fiber is taking
+ place.
+
+It is now admitted that the (red) heat-waves may play some part in
+heliotherapy—exposure to direct sunlight for medical purposes. Dr.
+Lazarus-Barlow, Professor of Experimental Pathology in the University
+of London, concludes that even though heat-rays may also play some
+part in curative processes, “experience of the treatment of wounds by
+sunlight in France during the World War indicated that a degree of
+benefit arises from exposure to sunlight which cannot be attributable
+to warmth and ultra-violet rays. On the other hand, in the Finsen light
+treatment of lupus (a tubercular affection of the skin of the face,
+occurring in several forms) and in the treatment of tuberculosis at
+high altitudes, ultra-violet rays play a predominant part.”
+
+As the ultra-violet rays penetrate but a fraction of a millimeter into
+the epithelium, “it is uncertain how the rays act.” The suggestion is
+here ventured that since the recently discovered Millikan Rays are
+particularly powerful under the same conditions that make application
+of the ultra-violet rays practicable as a therapeutic agency, it may
+later be found that these highly penetrating rays, of exceedingly short
+wave length, aid greatly in effecting some of the cures now attributed
+wholly to the longer (and less penetrating) ultra-violet rays or the
+much shorter X-rays.[7]
+
+Professor Lazarus-Barlow calls attention to the fact that it is
+precisely those tubercular persons who tan easily who are said to
+derive the greatest benefit from a sojourn at high altitude.
+
+Very remarkable is a recently adopted machine which “pours ultra-violet
+light through a funnel down the throat of a patient.” The new
+apparatus, first used in London, is employed for treatment of various
+mouth and throat diseases, “thus making it possible for patients to
+take internal baths of artificial sunlight” (_Science_, February 26,
+1926).
+
+In England, where the sky is so often overclouded, it is natural that
+much attention has been given to ultra-violet ray therapy. A recent
+press dispatch tells us:
+
+“London recently had 23 consecutive days on which no beam of the sun
+could force its way through the mantle of cloud and fog which spread
+over that section of England. Now the Britons are making artificial
+suns that may be available for both indoor and outdoor illumination.
+Arc lights throwing powerful ultra-violet rays are being installed in
+beauty shops and hotels, and patrons are given opportunity to bathe
+their bodies in this brilliance. These rays are being billed as more
+potent than sun baths, and citizens who have small chance to see the
+orb of day get their sunshine and their medicine at one swoop.”
+
+Two Indian scientists, S. S. Bhatnagar and R. B. Lal, of the University
+of the Punjab, Lahore, discovered in 1925 that germs grow faster
+when exposed to “polarized” light than to ordinary light. (Ordinary
+light—according to the undulatory theory—is due to vibrations
+transverse to the direction of the ray, but varying so rapidly as
+to show no particular direction of their own, the fronts of the
+light-waves crisscrossing at all angles. When, by any means, these
+vibrations are given a definite direction, the light is said to be
+_polarized_, the fronts of the waves being all arranged in the same
+direction, though the path of the rays may be plane, elliptical,
+circular, or rotary, according to the method of polarization employed.)
+
+The Indian experimenters took cultures of the germs of typhoid fever
+and cholera, and exposed one set to ordinary light, and another to a
+beam of polarized light. The latter multiplied much faster than did the
+germs under ordinary light.
+
+It was demonstrated in 1925 by Dr. Elizabeth S. Semmens, of Bedford
+College, London, that the digestion of starch takes place more readily
+under polarized light than in ordinary light.
+
+Prolonged exposure to the ultra-violet rays will destroy any germs
+known to science. (Cathode rays—which are shorter than ultra-violet
+rays—will kill not only germs, but insects as well, by means of a
+device developed by Prof. W. D. Coolidge.)
+
+“Bacteria,” says Dr. Coolidge, “have been rayed, and an exposure of
+a tenth of a second has been found sufficient to kill even highly
+resistant bacterial spores. Fruit flies, upon being rayed for a small
+fraction of a second, instantly showed almost complete collapse, and in
+a few hours were dead.”
+
+This may lead to the application of cathode rays as a germicide, but
+their effect on higher forms of life shows that their unskilled use
+would be most dangerous. For example, Dr. Coolidge relates:
+
+“The ear of a rabbit was rayed over a circular area one centimeter
+in diameter for one second. After several days a scab formed which
+fell off a few days later, taking the hair with it. Two weeks later a
+profuse growth of snow-white hair started which soon became much longer
+than the original gray hair. Another area was rayed for 50 seconds. In
+this case, scabs developed on both sides of the ear, which scabs later
+fell out, leaving a hole. The edge of this hole is now covered with
+snow-white hair.”
+
+A very interesting problem to scientists relates to the question as
+to whether or not insects are color-blind. It may be that we now have
+at least a partial answer to this vexed question, and in terms of
+ultra-violet radiations.
+
+Dr. Frank E. E. Germann, of Cornell University, calls attention to some
+recent experiments which show conclusively that at least one kind of
+insects (flies) have a range of vision in the ultra-violet, just as
+we have in the visible spectrum. It was also made “perfectly evident
+that flowers do have their characteristic ultra-violet radiations”
+(_Science_, March 26, 1926, page 325). It is due “to our own egotism
+that we call the insect color-blind.”
+
+A given type of insect might in reality be visiting flowers of the
+same color as far as it was concerned, while to us it appeared to
+be visiting flowers of all colors. “Might not two flowers, one red
+and one blue, both give out the same group of wave lengths in the
+ultra-violet, and thus be identical in color to an insect seeing only
+the ultra-violet? Moreover, what is to prevent two different kinds of
+red flowers from giving out two entirely different sets of wave lengths
+in the ultra-violet, and thus appearing to have entirely different
+colors to an insect?”
+
+In a very real sense, science is only at the beginning of the
+discoveries it will yet make in its investigations of the nature and
+action of ultra-violet, cathode and X-rays.
+
+
+FOOTNOTES:
+
+[3] It is interesting to note in this connection that Kuzelmass and
+McQuarrie have suggested that oxidation of cod liver oil gives rise to
+ultra-violet radiation. (See _Science_, September 19, 1924.)
+
+[4] Paper read before the 66th meeting of the American Chemical
+Society, held in Milwaukee, Wis., September 10th to 14th, 1923.
+
+[5] Dr. Harriette Chick and her co-workers of the Vienna University
+Child Clinic discovered, first, that the action of cod liver oil on
+the bone-lesions of rickets has an exact parallel in that of the
+ultra-violet rays of sunlight, or of the rays from a mercury-vapor
+quartz lamp; and, second, that the oil and the rays were effective
+substitutes the one for the other. See my _Man’s Debt to the Sun_,
+Little Blue Book No. 808, page 49.
+
+[6] The only creature that has porphyrin as part of its normal
+body-covering is a tropical bird called the touraco, parts of whose
+feathers are dyed a brilliant red by a porphyrin-copper compound known
+as turacin. This pigment is remarkable also because it seems to be the
+only normal occurrence of copper as a coloring compound in feathers or
+skin. Turacin is soluble in weak alkali, so that when it rains and the
+bird comes into contact with such alkaline solutes as frequently occur
+in nature, the turacin bleaches out! Although porphyrin is rare as a
+normal coloring in adult animals, it is the commonest pigment found in
+the shells of birds’ eggs. Almost all eggs, from the hen’s brown to the
+robin’s blue, contain it.
+
+[7] The length of the very short X-rays was accurately determined by a
+new method developed by Compton and Doan in 1925, and was found to be
+about three billionths of an inch.
+
+
+
+
+  Transcriber’s Notes
+
+  pg 19 Changed: In March, 1923, Dr. I. Seth Hirsh
+             to: In March, 1923, Dr. I. Seth Hirsch
+
+  pg 42 Changed: unable to refer to their soure
+             to: unable to refer to their source
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK X-RAY, VIOLET RAY, AND OTHER RAYS ***
+
+
+
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
