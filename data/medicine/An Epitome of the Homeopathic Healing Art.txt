@@ -1,197 +1,6 @@
-The Project Gutenberg eBook of An Epitome of the Homeopathic Healing Art
-
-This ebook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this ebook or online
-at www.gutenberg.org. If you are not located in the United States,
-you will have to check the laws of the country where you are located
-before using this eBook.
-
-Title: An Epitome of the Homeopathic Healing Art
-
-Author: B. L. Hill
-
-Release date: June 4, 2008 [eBook #25692]
-                Most recently updated: January 3, 2021
-
-Language: English
-
-Credits: Produced by Bryan Ness and the Online Distributed
-        Proofreading Team at https://www.pgdp.net
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK AN EPITOME OF THE HOMEOPATHIC HEALING ART ***
-
-
-
-
-Produced by Bryan Ness and the Online Distributed
-Proofreading Team at https://www.pgdp.net
-
-
-
-
-
-
-
-
-
-
-
-AN EPITOME OF THE Homoeopathic Healing Art,
-
-CONTAINING THE NEW DISCOVERIES AND IMPROVEMENTS TO THE PRESENT TIME;
-
-DESIGNED
-
-FOR THE USE OF FAMILIES, FOR TRAVELERS ON THEIR JOURNEY,
-
-AND AS A POCKET COMPANION FOR THE PHYSICIAN.
-
-BY B. L. HILL, M. D.,
-
-Professor of General, Special, and Surgical Anatomy Late Professor of
-Surgery, Obstetrics, and Diseases Females and Children, in the W. H.
-College, Author of the "Homoeopathic Practice of Surgery," &c., &c.
-
-
-CLEVELAND, OHIO: JOHN HALL, 72 SUPERIOR STREET.
-
-CHICAGO, ILL. HALSEY & KING, 162 CLARK STREET.
-
-1859.
-
-
-Entered according to Act of Congress, in the year 1859,
-
-By B. L. HILL, M. D.,
-
-In the Clerk's office of the District Court in and for the Northern
-District of Ohio.
-
-PINKERTON & NEVINS' Print, Cleveland, O.
-
-
-       *       *       *       *       *
-
-
-TABLE OF REMEDIES.
-
-
-In this table I have affixed to the remedies figures designating the
-dilutions or the attenuations, at which, under ordinary circumstances, I
-would advise their use. The strongest, or mother tinctures, marked with
-an apha (0), the dilutions or triturations to be of the decimal degrees
-of attenuation, are marked 1, 2, 3, &c., to designate that they are to
-be used at 1-10th, 1-100th, 1-1000th, &c., the strength of the pure
-drugs.
-
-The list for a full FAMILY CASE contains all the remedies recommended in
-this book for diseases that may be safely trusted to unprofessional
-hands.
-
-The TRAVELER'S CASE needs only such medicines as are prescribed for the
-diseases which he would be most liable to contract on his journey;
-though I have put in the principal ones used in domestic practice, so
-that the Case will do for family use.
-
-The CHOLERA CASE is only supplied with such remedies as are particularly
-applicable to that disease; useful, however, for many other complaints.
-
-TRAVELER'S CASE.
-
-   1 Aconite                p 3|15 Hydrastus Can.          p 1
-   2 Apis Mellifica         p 3|16 Ipecac                  p 3
-   3 Arsenicum              p 3|17 Mercurius sol.          p 3
-   4 Arnica                tr 0|18 Mercurius cor.         tt 2
-   5 Arum triphyllum       tt 2|19 Macrotin               tt 1
-   6 Belladonna             p 3|20 Nux Vom.                p 3
-   7 Baptisia               p 1|21 Phosphorus              p 3
-   8 Bryonia                p 3|22 Phos. acid              p 3
-   9 Colocynth              p 3|23 Podophyllin             p 2
-   10 China Sul.           tt 1|24 Rhus toxicod.           p 3
-   11 Chamomilla            p 3|25 Secale                  p 3
-   12 Copaiva               p 2|26 Tartar emetic           p 3
-   13 Cuprum                p 3|27|Veratrum                p 3
-   14 Eupatorium Aro.       p 1|
-
-
-CHOLERA CASE.
-
-   1 Aconite                p 3|8 Laurocerasus             p 4
-   2 Arsenicum              p 3|9 Opium                    p 3
-   3 Belladonna             p 3|10 Merc. cor.              p 3
-   4 Camphor               tr 0|11 Phosphorus              p 3
-   5 Carbo Veg.             p 5|12 Phos. acid              p 3
-   6 Cuprum                 p 3|13 Secale                  p 3
-   7 Ipecac                 p 3|14 Veratrum                p 3
-
-FULL FAMILY CASE.
-
-   Tr. is used for tincture, Tt. trituration, P. pellets.
-
-   REMEDIES.                 |CONTRACTIONS.
-                             |
-    1 Aconitum.              |Aconite       Tr 0 1 p 3
-    2 Althæa.                |
-    3 Apis mellifica.        |Apis mel.        0 p 2 3
-    4 Arsenicum.             |Arsenicum          0 p 3
-    5 Arnica.                |Arnica,            0 p 3
-    6 Arum triphyllum.       |Arum triphyllum,  0 tt 2
-    7 Belladonna.            |Bell.           tr 1 p 4
-    8 Baptisia tinctoria.    |Baptisia,         tr 0 2
-    9 Bryonia.               |Bryonia,          tr p 3
-   10 Carbo. Vegetabilis.    |Carbo. Veg.       tr p 4
-   11 Cantharides.           |Cantharides,    tr 0 p 3
-   12 Colocynthis.           |Colocynth,     tr or p 3
-   13 China Sulphuricum.     |China Sul.          tt 1
-   14 Chamomilla.            |Chamomilla     tr or p 3
-   15 Copaiva.               |Copaiva         tr 1 p 2
-   16 Cauloph. Thalictroides.|Caulophyllum        tr 1
-   17 Cuprum.                |Cuprum,              p 3
-   18 Cuprum Aceticum.       |
-   19 Cornus Sericea.        |Cornus sericea, tr 0 p 2
-   20 Conium maculatum.      |Conium mac.     tr 0 p 3
-   21 Coffea.                |Coffea               p 4
-   22 Eryngium Aquaticum.    |Eryngium Aquaticum     2
-   23 Eupatorium aromaticum  |Eupatorium aro. tr 0 p 2
-   24 Hepar Sulphur.         |
-   25 Hydrastus Canadensis.  |Hydrastin       tr 0 p 2
-   26 Hamamelis Virginica.   |Hamamelis Vir.  tr 0 p 3
-   27 Ipecacuanha.           |Ipecac        tr 0 p 2 3
-   28 Laurocerasus.          |Laurocerasus         p 3
-   29 Mercurius solubilis.   |Merc.               tr 3
-   30 Mercurius corrosivus.  |Mercurius cor.  tt 2 p 3
-   31 Macrotys Racemosa.     |Macrotin,           tr 2
-   32 Nux Vomica.            |Nux                  p 3
-   33 Opium.                 |Opium                p 3
-   34 Phosphorus.            |Phosphorus,     tr 2 p 3
-   35 Phosphoric acid.       |Phos. acid,     tr 2 p 3
-   36 Podophyllum peltatum.  |Podophyllin,    tt 1 p 3
-   37 Pulsatilla.            |Pulsatilla             3
-   38 Rhus Toxicodendron.    |Rhus Tox.            p 3
-   39 Secale cornutum.       |Secale,         tr 1 p 3
-   40 Santonine.             |Santonine,          tr 1
-   41 Spongia.               |Spongia,             p 4
-   42 Tartar Emetic.         |Tartar emetic   tr 2 p 3
-   43 Thuya.                 |
-   44 Veratrum alba.         |Veratrum.            p 3
-
-
-
-
-AN EPITOME
-
-OF THE
-
-HOMOEOPATHIC HEALING ART.
-
-
-
+AN EPITOME OF THE HOMOEOPATHIC HEALING ART.
 
 Introduction.
-
 
 This work contains in a _condensed form_ a very large portion of all
 that is practically useful in the treatment of the diseases ordinarily
@@ -280,11 +89,7 @@ This has been my practice, and it has been _eminently successful_, and
 therefore I commend it to others, treating with pity the infirmity of
 those who ignorantly condemn it, as "They know not what they do."
 
-
-
-
 ADMINISTRATION OF REMEDIES.
-
 
 The remedies are either in the form of tinctures saturated, more or less
 dilute, in Pellets or Powders. The _Pellets_ may be taken dry upon the
@@ -307,7 +112,6 @@ the doses should be repeated oftener than in milder cases--about once an
 hour as a general rule is often enough, though in some cases they should
 be given in half an hour or oftener. In mild cases, once in two or three
 hours is often enough, and in chronic cases, once or twice a day.
-
 
 Bathing.
 
@@ -334,7 +138,6 @@ and legs, while the _lung affections_ of females, now so fearfully
 prevalent, are traceable in a great degree to the fashion that has
 prevailed for a few years, of exposing the arms to cold.
 
-
 Diet.
 
 The diet of the sick should he nutricious, but at all times simple, free
@@ -345,7 +148,6 @@ In short, let the food be nutritious, easily digested, small or moderate
 in quantity, and free from all "seasoning," except salt or sugar; and if
 salt is used at all, let the quantity be very small, much less than
 would be used in health.
-
 
 Diarrhoea.
 
@@ -4148,23 +3950,4 @@ donate, please visit: www.gutenberg.org/donate.
 
 Section 5. General Information About Project Gutenberg™ electronic works
 
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
 
